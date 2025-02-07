@@ -1,7 +1,0 @@
-pandas
-scikit-learn
-imbalanced-learn
-seaborn
-matplotlib
-streamlit
-joblib
